@@ -17,3 +17,5 @@ Projeto E-Commerce
     - DDD
     - Testes
     - NoSql e Sql
+    - Escalável
+    - Resiliente
