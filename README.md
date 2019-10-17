@@ -6,8 +6,11 @@ Projeto E-Commerce
 - Produtos
 - Pedidos
 - Pagamentos
+- Carrinho
+- Lista de Desejos
 
 - Premissas
+    - Codificação toda em inglês
     - Aplicar arquitetura Microservices
     - Rodar em Docker
     - Deve ser usado um orquestrados de container.
@@ -19,3 +22,4 @@ Projeto E-Commerce
     - NoSql e Sql
     - Escalável
     - Resiliente
+    
