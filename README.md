@@ -6,6 +6,8 @@ Projeto E-Commerce
 - Produtos
 - Pedidos
 - Pagamentos
+- Carrinho
+- Lista de Desejos
 
 - Premissas
     - Aplicar arquitetura Microservices
