@@ -16,3 +16,4 @@ Projeto E-Commerce
     - CQRS
     - DDD
     - Testes
+    - NoSql e Sql
